@@ -1,0 +1,23 @@
+{
+  "name": "tstoast",
+  "version": "1.0.0",
+  "description": "Toast on vanilla js with TS syntax",
+  "main": "toast.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anetegithub/tstoast.git"
+  },
+  "keywords": [
+    "toast",
+    "js"
+  ],
+  "author": "anete.anetes",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/anetegithub/tstoast/issues"
+  },
+  "homepage": "https://github.com/anetegithub/tstoast#readme"
+}
