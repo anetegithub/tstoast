@@ -49,12 +49,3 @@ export class Toast {
         }, time);
     }
 }
-
-var optional = {
-
-};
-
-new Toast({
-    text: 'toast',
-    ...optional
-});
