@@ -2,7 +2,7 @@
   "name": "tstoast",
   "version": "1.0.0",
   "description": "Toast on vanilla js with TS syntax",
-  "main": "toast.js",
+  "main": "Toast.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

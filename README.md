@@ -1,4 +1,4 @@
-# tstoast
+# Toast
 TypeScript toast class on vanilla JS
 
 # Usage
@@ -9,6 +9,6 @@ new Toast({
 });
 ````
 
-#Dependency
+# Dependency
 
 none!
